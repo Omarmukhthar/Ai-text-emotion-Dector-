@@ -90,7 +90,7 @@ Visit `http://127.0.0.1:5000` in your browser to use the app.
 
 > “Let technology understand our languages and emotions — not the other way around.”  
 > — *Omar Mukhthar*
-```
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
   <img src="https://img.shields.io/badge/Flask-WebApp-blue?logo=flask" />
