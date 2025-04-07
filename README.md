@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI Text Emotion Detector Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
   <img src="https://img.shields.io/badge/Flask-WebApp-blue?logo=flask" />
   <img src="https://img.shields.io/badge/Made%20with-AI-ff69b4" />
