@@ -1,19 +1,6 @@
-Absolutely, Omar! Here's a polished and **perfectly formatted `README.md`** ready for your GitHub repository — complete with emojis, clean structure, and a professional tone that shows off your skills and project nicely:
-
----
-
-```markdown
 # 🧠 AI Text Emotion Detector 💬🇮🇳
 
 This project is a **web-based AI-powered text emotion detection system** that analyzes user input and identifies the emotion expressed — especially tuned for **Indian languages**. Built using **Flask**, this app uses an external AI API to classify emotions like happiness, anger, sadness, and more.
-
-## 🚀 Live Preview
-
-> ⚠️ *Coming soon: Live hosted link*  
-> (Let me know once it's deployed — I’ll update this section for you!)
-
----
-
 ## 📌 Features
 
 - ✅ Detects emotions from user-submitted text
@@ -26,15 +13,12 @@ This project is a **web-based AI-powered text emotion detection system** that an
 
 ## 📁 Project Structure
 
-```
 ├── static/             # CSS and image assets
 ├── templates/          # HTML templates (index.html, result.html)
 ├── app.py              # Flask application
 ├── requirements.txt    # Project dependencies
 └── README.md           # You're here!
-```
 
----
 
 ## 🛠️ Technologies Used
 
@@ -45,29 +29,28 @@ This project is a **web-based AI-powered text emotion detection system** that an
 | **HTML/CSS**| Frontend interface            |
 | **AI API**  | Emotion detection engine      |
 
----
+
 
 ## ⚙️ Getting Started
 
 ### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/Omarmukhthar/Ai-text-emotion-Dector.git
 cd Ai-text-emotion-Dector
-```
+
 
 ### 2. Install dependencies
 
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 ### 3. Run the application
-
-```bash
+bash
 
 python app.py
-```
+
 
 Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
