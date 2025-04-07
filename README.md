@@ -82,13 +82,6 @@ Visit `http://127.0.0.1:5000` in your browser to use the app.
 
 ---
 
-## 🙌 Acknowledgements
-
-Special thanks to my H.O.D and staff of **The New College, Chennai** for their constant support and encouragement.  
-Built with love to bridge **technology** and **linguistic diversity** ❤️
-
----
-
 ## 👨‍💻 About Me
 
 **Omar Mukhthar**  
