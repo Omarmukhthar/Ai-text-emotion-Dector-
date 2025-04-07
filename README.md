@@ -5,7 +5,6 @@ A **web-based AI-powered text emotion detection app** that understands human emo
 
 ---
 
----
 
 ## ✨ Key Features
 
