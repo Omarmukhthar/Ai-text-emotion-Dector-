@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Emotion Detector (Multilingual)</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="/static/script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h2>🧠 AI Emotion Detector 🧠 </h2>
+
+        <!-- Language Selection -->
+        <div class="input-group">
+            <label for="language">🌍 Select Language:</label>
+            <select id="language">
+                <option value="hi">Hindi</option>
+                <option value="ta">Tamil</option>
+                <option value="bn">Bengali</option>
+                <option value="ml">Malayalam</option>
+                <option value="te">Telugu</option>
+                <option value="eg">Egyptian Arabic</option>
+                <option value="en" selected>English</option>
+            </select>
+        </div>
+
+        <!-- Text Input -->
+        <div class="input-group">
+            <textarea id="text-input" rows="4" placeholder="Type your text here..."></textarea>
+        </div>
+
+        <!-- Analyze Button -->
+        <button id="analyze-btn">🔍Analyze Emotion</button>
+
+        <!-- Loader -->
+        <div id="loader" class="loader"></div>
+
+        <!-- Display Result -->
+        <div id="result"></div>
+    </div>
+</body>
+</html>
