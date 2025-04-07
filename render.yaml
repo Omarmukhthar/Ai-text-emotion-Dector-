@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: emotion-analyzer
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    envVars:
+      - key: HUGGINGFACE_API_KEY
+        value: YOUR_HUGGINGFACE_API_KEY
+    region: oregon
+    plan: free
