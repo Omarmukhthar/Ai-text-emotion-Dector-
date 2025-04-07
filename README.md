@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Flask-WebApp-blue?logo=flask" />
-  <img src="https://img.shields.io/badge/Made%20with-AI-ff69b4" />
-  <img src="https://img.shields.io/badge/Indian%20Languages-Supported-green" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
-</p>
 # 🧠 AI Text Emotion Detector | Indian Language Support 🇮🇳
 
 A **web-based AI-powered text emotion detection app** that understands human emotions from text — with special support for **multiple Indian languages**. Built using **Flask** and integrated with a powerful AI API for accurate emotion classification.
@@ -98,3 +91,10 @@ Visit `http://127.0.0.1:5000` in your browser to use the app.
 > “Let technology understand our languages and emotions — not the other way around.”  
 > — *Omar Mukhthar*
 ```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Flask-WebApp-blue?logo=flask" />
+  <img src="https://img.shields.io/badge/Made%20with-AI-ff69b4" />
+  <img src="https://img.shields.io/badge/Indian%20Languages-Supported-green" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+</p>
