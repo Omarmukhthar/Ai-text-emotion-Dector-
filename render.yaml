@@ -3,7 +3,7 @@ services:
     name: emotion-analyzer
     env: python
     buildCommand: ""
-    startCommand: gunicorn app:app
+    startCommand: gunicorn App:app
     envVars:
       - key: HUGGINGFACE_API_KEY
         value: YOUR_HUGGINGFACE_API_KEY
